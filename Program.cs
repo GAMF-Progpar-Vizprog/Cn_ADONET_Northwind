@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Data.SqlClient;
 
-namespace CnANCA_Northwind
+namespace Cn_ADONET_Northwind
 {
 	class Program
 	{
